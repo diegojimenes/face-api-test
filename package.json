@@ -1,0 +1,7 @@
+{
+  "name": "face-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Diego jimenes <lligaskate@gmail.com>",
+  "license": "MIT"
+}
